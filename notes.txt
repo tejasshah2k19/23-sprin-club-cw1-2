@@ -1,0 +1,18 @@
+password -> encrypted ->
+	how to? 
+	bcrypt -> enc -> 
+	Signup-> 
+	password -> india ->
+				encrypt -> jdfioer4dfsklfj {db save} 
+	
+	
+	login -> password -> india
+						 	-> india,jdfioer4dfsklfj => true / false 
+						 	
+
+
+	Bcrypt -> 	
+	
+	
+	lib / dep / pom.xml
+	
